@@ -52,15 +52,6 @@ Engineered a resilient ETL pipeline using Python and Supabase (pgvector) to scra
 
 ### 3. "OpenSquad" Multi-Agent Workflows
 Designed internal multi-agent RAG pipelines (Classifier, Retrieval, Specialist, Evaluator) that effectively reduced processing latency by 40% and accelerated project delivery cycles by 75%.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silas203&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silas203&theme=radical&hide_border=true" width="48%" />
-</div>
 <br/>
 
 <div align="center">
